@@ -9,7 +9,7 @@ Bem-vindo ao Gerenciamento de Biblioteca, um sistema completo para administrar o
 - `Consultas SQL`: Obtenha relatórios e insights sobre o uso do acervo e atividades dos membros.
 
 ## 🖥️ Tecnologias Utilizadas
-- Banco de Dados: `Coackroach DB`
+- Banco de Dados: `Cockroach DB`
 - Linguagem de Consulta: `SQL`
 - Ferramenta de Diagramas: `Mermaid.js`
 
