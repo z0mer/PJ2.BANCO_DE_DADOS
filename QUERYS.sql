@@ -1,5 +1,4 @@
 -- 1. Listar todos os livros com seus autores
-
 SELECT 
     Livro.Titulo AS "Título do Livro", 
     Autor.Nome AS "Nome do Autor", 
