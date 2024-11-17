@@ -4,28 +4,28 @@
 erDiagram
     CATEGORIA {
         int ID_Categoria PK
-        string Nome_Categoria
-        string Descricao
+        varchar(100) Nome_Categoria
+        varchar(250) Descricao
     }
 
     EDITORA {
         int ID_Editora PK
-        string Nome_Editora
-        string Endereco
-        string Telefone
+        varchar(100) Nome_Editora
+        varchar(255) Endereco
+        varchar(20) Telefone
     }
 
     AUTOR {
         int ID_Autor PK
-        string Nome
-        string Sobrenome
+        varchar(100) Nome
+        varchar(100) Sobrenome
         date Data_Nascimento
     }
 
     LIVRO {
         int ID_Livro PK
-        string Titulo
-        string ISBN
+        varchar(255) Titulo
+        varchar(20) ISBN
         int Ano_Publicacao
         int ID_Categoria FK
         int ID_Editora FK
@@ -33,9 +33,9 @@ erDiagram
 
     MEMBRO {
         int ID_Membro PK
-        string Nome
-        string Sobrenome
-        string Email
+        varchar(100) Nome
+        varchar(100) Sobrenome
+        varchar(100) Email
         date Data_Registro
     }
 
