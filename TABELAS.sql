@@ -2,7 +2,7 @@
 CREATE TABLE Categoria (
     ID_Categoria INTEGER PRIMARY KEY,
     Nome_Categoria VARCHAR(100) NOT NULL,
-    Descricao TEXT
+    Descricao VARCHAR(250)
 );
 
 -- Criação da Tabela Editora
