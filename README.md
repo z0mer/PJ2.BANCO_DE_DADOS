@@ -9,9 +9,9 @@ Bem-vindo ao Gerenciamento de Biblioteca, um sistema completo para administrar o
 - `Consultas SQL`: Obtenha relatórios e insights sobre o uso do acervo e atividades dos membros.
 
 ## 🖥️ Tecnologias Utilizadas
-- Banco de Dados: Coackroach DB
-- Linguagem de Consulta: SQL
-- Ferramenta de Diagramas: Mermaid.js
+- Banco de Dados: `Coackroach DB`
+- Linguagem de Consulta: `SQL`
+- Ferramenta de Diagramas: `Mermaid.js`
 
 ## 📚 Acesso aos Modelos e Códigos
 
@@ -19,9 +19,19 @@ Bem-vindo ao Gerenciamento de Biblioteca, um sistema completo para administrar o
 
 | 🌟 |
 |---------|
-| [MER](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/MER.md) |
-| [MR](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/MR.md) |
-| [TABELAS](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/TABELAS.sql) |
-| [DADOS](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/DADOS.sql) |
-| [QUERYS](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/QUERYS.sql) |
+| [Modelo Entidade Relacional](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/MER.md) |
+| [Modelo Relacional](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/MR.md) |
+| [Criar Tabelas](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/TABELAS.sql) |
+| [Inserir Dados](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/DADOS.sql) |
+| [10 Querys](https://github.com/z0mer/PJ2.BANCO_DE_DADOS/blob/main/QUERYS.sql) |
 
+</div>
+
+## Autores ✒️
+Anna Carolina Zomer ⬇️ 
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/z0mer)
+
+Humberto Pellegrini ⬇️ 
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Humbertin07)
